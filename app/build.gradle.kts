@@ -41,6 +41,7 @@ dependencies {
     androidTestImplementation(libs.ext.junit)
 
     implementation("org.osmdroid:osmdroid-android:6.1.18")
+    implementation("androidx.biometric:biometric:1.1.0")
 
 
 }
